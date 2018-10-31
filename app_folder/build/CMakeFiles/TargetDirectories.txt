@@ -1,0 +1,6 @@
+/home/albisoru-andritoi/Desktop/app_folder/build/CMakeFiles/rebuild_cache.dir
+/home/albisoru-andritoi/Desktop/app_folder/build/CMakeFiles/myapp.dir
+/home/albisoru-andritoi/Desktop/app_folder/build/CMakeFiles/edit_cache.dir
+/home/albisoru-andritoi/Desktop/app_folder/build/testl/CMakeFiles/rebuild_cache.dir
+/home/albisoru-andritoi/Desktop/app_folder/build/testl/CMakeFiles/testl.dir
+/home/albisoru-andritoi/Desktop/app_folder/build/testl/CMakeFiles/edit_cache.dir

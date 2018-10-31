@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/albisoru-andritoi/Desktop/app_folder/testl/testl.cpp
+testl.h
+/home/albisoru-andritoi/Desktop/app_folder/testl/testl.h
+
+/home/albisoru-andritoi/Desktop/app_folder/testl/testl.h
+iostream
+-
+
