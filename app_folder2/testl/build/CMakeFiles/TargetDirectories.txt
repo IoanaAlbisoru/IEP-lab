@@ -1,0 +1,7 @@
+/home/albisoru-andritoi/Desktop/app_folder2/testl/build/CMakeFiles/install/strip.dir
+/home/albisoru-andritoi/Desktop/app_folder2/testl/build/CMakeFiles/edit_cache.dir
+/home/albisoru-andritoi/Desktop/app_folder2/testl/build/CMakeFiles/testl.dir
+/home/albisoru-andritoi/Desktop/app_folder2/testl/build/CMakeFiles/rebuild_cache.dir
+/home/albisoru-andritoi/Desktop/app_folder2/testl/build/CMakeFiles/list_install_components.dir
+/home/albisoru-andritoi/Desktop/app_folder2/testl/build/CMakeFiles/install/local.dir
+/home/albisoru-andritoi/Desktop/app_folder2/testl/build/CMakeFiles/install.dir

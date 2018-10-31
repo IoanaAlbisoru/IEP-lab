@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/albisoru-andritoi/Desktop/app_folder2/app_folder/app.cpp
+app.h
+/home/albisoru-andritoi/Desktop/app_folder2/app_folder/app.h
+
+/home/albisoru-andritoi/Desktop/app_folder2/app_folder/app.h
+iostream
+-
+testl.h
+/home/albisoru-andritoi/Desktop/app_folder2/app_folder/testl.h
+

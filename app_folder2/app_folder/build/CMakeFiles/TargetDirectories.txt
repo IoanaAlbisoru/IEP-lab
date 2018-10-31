@@ -1,0 +1,3 @@
+/home/albisoru-andritoi/Desktop/app_folder2/app_folder/build/CMakeFiles/rebuild_cache.dir
+/home/albisoru-andritoi/Desktop/app_folder2/app_folder/build/CMakeFiles/myapp.dir
+/home/albisoru-andritoi/Desktop/app_folder2/app_folder/build/CMakeFiles/edit_cache.dir

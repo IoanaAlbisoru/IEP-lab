@@ -1,0 +1,2 @@
+/usr/local/lib/libtestl.a
+/usr/local/include/testl.h
