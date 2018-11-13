@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/dog.dir/main.cpp.o  -o dog -rdynamic 

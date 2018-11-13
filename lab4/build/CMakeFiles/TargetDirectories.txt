@@ -1,0 +1,7 @@
+/home/oana/Desktop/IEP-lab/lab4/build/CMakeFiles/install.dir
+/home/oana/Desktop/IEP-lab/lab4/build/CMakeFiles/list_install_components.dir
+/home/oana/Desktop/IEP-lab/lab4/build/CMakeFiles/rebuild_cache.dir
+/home/oana/Desktop/IEP-lab/lab4/build/CMakeFiles/dog.dir
+/home/oana/Desktop/IEP-lab/lab4/build/CMakeFiles/install/strip.dir
+/home/oana/Desktop/IEP-lab/lab4/build/CMakeFiles/install/local.dir
+/home/oana/Desktop/IEP-lab/lab4/build/CMakeFiles/edit_cache.dir
